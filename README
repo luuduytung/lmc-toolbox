@@ -1,10 +1,10 @@
-GroupAnalyseEWAToolbox is a collection of Matlab programs that implements:
-     * Exponential weighted aggregate by Proximal Langevin Monte-Carlo algorithm for group-analysis sparse regression.
+LMCToolbox is a collection of Matlab programs that implements:
+     * Sampling from non-smooth distribution through Langevin diffusion.
 
 To reproduce figures and examples, see Scripts/ directory.
 
 
 download at 
 
-Contact:
+Contact: https://github.com/luuduytung/lmc-toolbox
 
